@@ -1,0 +1,7 @@
+.alert.alert-dismissible.alert-warning{
+    margin-top: 1rem;
+}
+.alert.alert-dismissible.alert-warning > span{
+     vertical-align: middle;
+     margin-left: 2rem;
+}
